@@ -1,10 +1,10 @@
-🚗 Car Rental Application
+# **Car Rental Application**
 
-📌 Overview
+📌 **Overview**
 
 This is a Car Rental Application built using Java, SQL, and Object-Oriented Programming (OOP) principles. The application allows users to browse, rent, and return cars, while admins can manage vehicle listings and bookings.
 
-🛠️ Features & Functionalities
+🛠️ **Features & Functionalities**
 
 ✅ User Features:
 
@@ -27,7 +27,7 @@ This is a Car Rental Application built using Java, SQL, and Object-Oriented Prog
     -> Manage Car Availability
 
 
-💾 Database Design (SQL)
+💾 **Database Design (SQL)**
     
     Users Table – Stores user information
     
@@ -35,7 +35,7 @@ This is a Car Rental Application built using Java, SQL, and Object-Oriented Prog
     
     Bookings Table – Stores rental transactions
 
-🚀 Technologies Used
+🚀 **Technologies Used**
 
     Java (OOP Principles)
     
@@ -43,7 +43,7 @@ This is a Car Rental Application built using Java, SQL, and Object-Oriented Prog
     
     JDBC (Java Database Connectivity)
 
-🛠️ Setup Instructions
+🛠️ **Setup Instructions**
 
     1. Clone the repository
     
@@ -57,7 +57,7 @@ This is a Car Rental Application built using Java, SQL, and Object-Oriented Prog
     
     5. Run the application! 🚀
 
-📸 Screenshots
+# 📸 **Screenshots**
 
  ![Screenshot 2024-08-02 231401](https://github.com/harsharma30/CAR-RENTAL-SYSTEM/blob/18e6a501d35b172cfdbef7f864083ee4296f23d2/Images/WhatsApp%20Image%202025-02-14%20at%2009.28.06_aa3d31ff.jpg)
     
@@ -66,21 +66,21 @@ This is a Car Rental Application built using Java, SQL, and Object-Oriented Prog
 ![Screenshot 2024-08-02 231401](https://github.com/harsharma30/CAR-RENTAL-SYSTEM/blob/18e6a501d35b172cfdbef7f864083ee4296f23d2/Images/WhatsApp%20Image%202025-02-14%20at%2009.34.56_f24d3d9e.jpg)
 
 
-🤝 Contributions
+🤝 **Contributions**
 
     Contributions are welcome! Feel free to fork, open issues, and submit pull requests.
 
 
 
-📜 License
+📜 **License**
 
     This project is open-source and available under the MIT License.
 
 
 
-📩 Contact
+📩 **Contact**
 
     For any queries or suggestions, reach out at: harsh5904fbd@gmail.com
 
-Happy Coding! 🚀
+**Happy Coding!** 🚀
 
