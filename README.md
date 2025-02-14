@@ -26,16 +26,6 @@ View All Bookings
 
 Manage Car Availability
 
-🏗️ Project Structure
-
-CarRentalApp/
-│── src/
-│   ├── models/         # Entity classes (User, Car, Booking)
-│   ├── dao/            # Database access classes (UserDAO, CarDAO, BookingDAO)
-│   ├── services/       # Business logic layer
-│   ├── main/           # Main application logic
-│── database/           # SQL scripts (tables, sample data)
-│── CarRentalApp.java   # Entry point
 
 💾 Database Design (SQL)
 
