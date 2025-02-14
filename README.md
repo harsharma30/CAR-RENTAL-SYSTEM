@@ -57,7 +57,7 @@ JDBC (Java Database Connectivity)
 
 1. Clone the repository
 
-    git clone https://github.com/yourusername/CarRentalApp.git
+    git clone https://github.com/harsharma30/CAR-RENTAL-SYSTEM.git
 
 2. Import the project into your favorite IDE (Eclipse/IntelliJ).
 
